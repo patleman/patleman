@@ -12,7 +12,7 @@
 
 
 ### :man_student: My College Journey:
-- Learning: Proficient in Robotics, Control Systems, and Optimixation.
+- Learning: Proficient in Robotics, Control Systems, and Optimization.
 - Research: Conducted research on control laws and obstacle avoidance algorithms for robotic manipulators.
 - Projects: Developed projects like Robust Trajectory Tracking Controller for Quadrotor, Safe Control of UR16e Universal Robot, and more.
 🚀  Tools & Technologies:
@@ -21,7 +21,7 @@
 ### :man_student: Professional Experiences:
 - Gen Auto AI: Research Intern, Developing control laws for autonomous vehicles to enhance navigation and safety.
 - New York University: Researcher, Worked on safe obstacle avoidance algorithms for robotic manipulators like UR16e and Franka Research 3.
-- Omnipresent Robot Tech: Robotics Software Engineer, Augmented PX4 for Remotely Piloted Aircraft Systems (RPAS), ensuring regulatory compliance and reducing power consumption.
+- Omnipresent Robot Tech: Robotics Software Engineer, Augmented PX4 for Remotely Piloted Aircraft Systems (RPAS) with Public Key Infrastructure, ensuring regulatory compliance and reducing power consumption.
 - Industrial Automation Lab (NSIT): R&D Intern, Worked on quaternion-based estimation and disturbance observer-based control for quadrotors, improving stability and disturbance rejection.
 
   
