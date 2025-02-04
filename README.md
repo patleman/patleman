@@ -8,14 +8,14 @@ My current project is on developing safety-prioritized control laws in optimized
 
 I am particularly excited by the opportunity to work with real-world robotic systems, where I can apply theoretical concepts in optimization, control, and computer vision. By leveraging established frameworks, an analytical mindset, and advanced coding skills, I am driven to make a meaningful contribution to the field of robotics.
 
-<h3 align="left">Connect with me:</h3><p align="left">
+<h3 align="left">Connect with me: 
   <a href="https://www.linkedin.com/in/patanjali-maithani/" target="_blank">
     <img src="https://i.sstatic.net/gVE0j.png" alt="Patanjali_Maithani" height="17" width="15" />
+  </a> 
+  <a href="mailto:pm3516@nyu.edu">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="Email" height="17" width="17" />
   </a>
-</p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=patleman&label=Profile%20views&color=0e75b6&style=flat" alt="patleman" />
-</p>
+</h3>
 
 <h3 align="left">Activity:</h3>
 
