@@ -1,5 +1,5 @@
 # Hi there, I'm Patanjali! :man_technologist:
-I am an aspiring robotics software engineer with a Master’s degree in Robotics from NYU Tandon School of Engineering and a Bachelor’s degree from Netaji Subhas Institute of Technology, Delhi University, India. I am currently seeking opportunities in robotics software engineering, with a focus on control systems.
+I am an aspiring robotics software engineer with a Master’s degree in Robotics from NYU Tandon School of Engineering and a Bachelor’s degree from Netaji Subhas Institute of Technology, Delhi University, India. 
 
 Currently, I am working as a research intern at Gen Auto AI, a startup, where I design control laws for safety-critical autonomous systems.
 
