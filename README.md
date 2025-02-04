@@ -13,7 +13,7 @@ I am particularly excited by the opportunity to work with real-world robotic sys
     <img src="https://i.sstatic.net/gVE0j.png" alt="Patanjali_Maithani" height="17" width="15" />
   </a> 
   <a href="mailto:pm3516@nyu.edu">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="Email" height="17" width="17" />
+    <img src="https://patleman.github.io/images/email.jpg" alt="Email" height="17" width="17" />
   </a>
 </h3>
 
