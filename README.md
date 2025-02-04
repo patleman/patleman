@@ -11,20 +11,17 @@ I am particularly excited by the opportunity to work with real-world robotic sys
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/patanjali-maithani/" target="_blank">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="Patanjali_Maithani" height="40" width="60" />
+    <img src="https://i.sstatic.net/gVE0j.png" alt="Patanjali_Maithani" height="20" width="30" />
   </a>
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=patleman&label=Profile%20views&color=0e75b6&style=flat" alt="patleman" />
 </p>
-<p>
+<!-- <p>
   <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
-</p
+  </a> 
+</p -->
 ------
 <h3 align="left">Activity:</h3>
 
