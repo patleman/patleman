@@ -16,7 +16,7 @@ I am particularly excited by the opportunity to work with real-world robotic sys
     <img src="https://patleman.github.io/images/email.jpg" alt="Email" height="25" width="25" />
   </a>
 </h3>
-
+<h3 align="left"><a href="https://patleman.github.io/" target="_blank">Portfolio</a></h3>
 <h3 align="left">Activity:</h3>
 
 [![Patanjali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=patleman&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)]
