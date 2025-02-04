@@ -10,13 +10,14 @@ I am particularly excited by the opportunity to work with real-world robotic sys
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/patanjali-maithani/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Patanjali_Maithani" height="40" width="60" ></i>
-</a>
+  <a href="https://www.linkedin.com/in/patanjali-maithani/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="Patanjali_Maithani" height="40" width="60" />
+  </a>
 </p>
-------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patleman&label=Profile%20views&color=0e75b6&style=flat" alt="patleman" /> </p>
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=patleman&label=Profile%20views&color=0e75b6&style=flat" alt="patleman" />
+</p>
 ------
 <h3 align="left">Activity:</h3>
 
@@ -27,9 +28,5 @@ I am particularly excited by the opportunity to work with real-world robotic sys
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patleman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="patleman"/>
   </a>
 </div>
-------
-
-
-
 
 
