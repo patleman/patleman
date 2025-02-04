@@ -14,10 +14,12 @@ I am particularly excited by the opportunity to work with real-world robotic sys
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="Patanjali_Maithani" height="40" width="60" />
   </a>
 </p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=patleman&label=Profile%20views&color=0e75b6&style=flat" alt="patleman" />
 </p>
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
 ------
 <h3 align="left">Activity:</h3>
 
