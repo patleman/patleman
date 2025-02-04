@@ -32,7 +32,7 @@ I am particularly excited by the opportunity to work with real-world robotic sys
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=cpp,c,python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cpp,c,python,matlab"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
