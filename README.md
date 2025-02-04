@@ -16,7 +16,7 @@ I am particularly excited by the opportunity to work with real-world robotic sys
     <img src="https://patleman.github.io/images/email.jpg" alt="Email" height="25" width="25" />
   </a>
 </h3>
-<h3 align="left">Check my <a href="https://patleman.github.io/" target="_blank">Portfolio</a></h3>
+<h3 align="left">My <a href="https://patleman.github.io/" target="_blank">Portfolio</a></h3>
 
 ------
 <h3 align="left">Activity:</h3>
