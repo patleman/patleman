@@ -10,10 +10,10 @@ I am particularly excited by the opportunity to work with real-world robotic sys
 
 <h3 align="left">Connect with me: 
   <a href="https://www.linkedin.com/in/patanjali-maithani/" target="_blank">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="Patanjali_Maithani" height="17" width="15" />
+    <img src="https://i.sstatic.net/gVE0j.png" alt="Patanjali_Maithani" height="25" width="25" />
   </a> 
   <a href="mailto:pm3516@nyu.edu">
-    <img src="https://patleman.github.io/images/email.jpg" alt="Email" height="17" width="17" />
+    <img src="https://patleman.github.io/images/email.jpg" alt="Email" height="25" width="25" />
   </a>
 </h3>
 
