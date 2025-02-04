@@ -18,7 +18,6 @@ I am particularly excited by the opportunity to work with real-world robotic sys
   <img src="https://komarev.com/ghpvc/?username=patleman&label=Profile%20views&color=0e75b6&style=flat" alt="patleman" />
 </p>
 
-
 <h3 align="left">Activity:</h3>
 
 [![Patanjali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=patleman&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)]
