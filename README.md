@@ -8,8 +8,7 @@ My current project is on developing safety-prioritized control laws in optimized
 
 I am particularly excited by the opportunity to work with real-world robotic systems, where I can apply theoretical concepts in optimization, control, and computer vision. By leveraging established frameworks, an analytical mindset, and advanced coding skills, I am driven to make a meaningful contribution to the field of robotics.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3><p align="left">
   <a href="https://www.linkedin.com/in/patanjali-maithani/" target="_blank">
     <img src="https://i.sstatic.net/gVE0j.png" alt="Patanjali_Maithani" height="17" width="15" />
   </a>
