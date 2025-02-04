@@ -13,12 +13,11 @@ I am particularly excited by the opportunity to work with real-world robotic sys
 <a href="https://www.linkedin.com/in/patanjali-maithani/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Patanjali_Maithani" height="40" width="60" ></i>
 </a>
 </p>
-
+------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patleman&label=Profile%20views&color=0e75b6&style=flat" alt="patleman" /> </p>
 
 
 ------
-
 <h3 align="left">Activity:</h3>
 
 [![Patanjali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=patleman&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)]
@@ -28,13 +27,9 @@ I am particularly excited by the opportunity to work with real-world robotic sys
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patleman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="patleman"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/patleman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patleman&&theme=tokyonight" alt="RResabala2015" />
-  </a>
-</p>
+------
 
 
-[![Patanjali's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patleman&theme=blue-green)]
+
 
 
