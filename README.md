@@ -38,7 +38,7 @@ I am particularly excited by the opportunity to work with real-world robotic sys
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=ros,cmake,docker"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=ros,cmake,docker,latex"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
