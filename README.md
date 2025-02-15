@@ -15,7 +15,6 @@ I am particularly excited by the opportunity to work with real-world robotic sys
   </a> 
   <a href="mailto:pm3516@nyu.edu">
     <img height="40" src="https://skillicons.dev/icons?i=gmail"/>
-    <img src="https://patleman.github.io/images/email.jpg" alt="Email" height="25" width="25" />
   </a>
 </h3>
 <h3 align="left">My <a href="https://patleman.github.io/" target="_blank">Portfolio</a></h3>
