@@ -12,9 +12,9 @@ I am particularly excited by the opportunity to work with real-world robotic sys
   
   <a href="https://www.linkedin.com/in/patanjali-maithani/" target="_blank">
     <img height="40" src="https://skillicons.dev/icons?i=linkedin"/>
-    <img src="https://i.sstatic.net/gVE0j.png" alt="Patanjali_Maithani" height="25" width="25" />
   </a> 
   <a href="mailto:pm3516@nyu.edu">
+    <img height="40" src="https://skillicons.dev/icons?i=gmail"/>
     <img src="https://patleman.github.io/images/email.jpg" alt="Email" height="25" width="25" />
   </a>
 </h3>
