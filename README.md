@@ -4,8 +4,6 @@ I am an aspiring robotics software engineer with a Master’s degree in Robotics
 Currently, I am working as a research intern at Gen Auto AI, a startup, where I design control laws for safety-critical autonomous systems.
 
 
-My current project is on developing safety-prioritized control laws in optimized control settings, where multiple constraints are dynamically prioritized and adapt to changing conditions. To enable this, I am exploring learning strategies to adjust the priority levels of constraints in real time.
-
 I am particularly excited by the opportunity to work with real-world robotic systems, where I can apply theoretical concepts in optimization, control, and perception. By leveraging established frameworks, an analytical mindset, and advanced coding skills, I am driven to make a meaningful contribution to the field of robotics.
 
 <h3 align="left">Connect with me: 
